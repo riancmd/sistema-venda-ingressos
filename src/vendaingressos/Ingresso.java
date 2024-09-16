@@ -2,7 +2,7 @@
 Autor: Rian da Silva Santos
 Matrícula: 23211315
 Componente Curricular: EXA 863 - MI - Programação
-ConcluÍdo em: 15/09/2024
+ConcluÍdo em: 16/09/2024
 Declaro que este código foi elaborado por mim de forma individual e não contém nenhum
 trecho de código de outro colega ou de outro autor, tais como provindos de livros e
 apostilas, e páginas ou documentos eletrônicos da Internet. Qualquer trecho de código
